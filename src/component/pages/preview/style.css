@@ -1,0 +1,13 @@
+.preview-header{
+background: #fafafa;
+    border-bottom: 1px solid #e1e8ed;
+    padding-top: 8px;
+    color: #454545;
+}
+
+.preview-info-contener{
+    max-width: 1280px;
+    
+    padding: 24px;
+    margin: 0 auto;
+}

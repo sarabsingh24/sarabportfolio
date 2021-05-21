@@ -1,0 +1,33 @@
+.banner-height {
+  
+  background: var(--purple6);
+  margin-top: 60px;
+}
+.banner-container{
+  display:grid;
+  grid-template-columns: 1fr 500px;
+  
+  align-items: center;
+  max-width: 1180px;
+  margin:0 auto;
+  padding:40px;
+
+}
+
+.img-border{
+  border: 12px solid #ffffff;
+  height:520px;
+  width:440px;
+  
+}
+.left-side{
+  max-width: 420px;
+}
+.right-side{
+  margin: 0 auto;
+}
+.small-discription{
+  
+  color:var(--clr-grey-5);
+  padding-bottom:20px;
+}
