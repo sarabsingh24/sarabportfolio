@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.43b948ca.chunk.css",
-    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.2bc2435c.chunk.js",
-    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.2bc2435c.chunk.js.map",
+    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.dc9bd72e.chunk.js",
+    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.dc9bd72e.chunk.js.map",
     "runtime-main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.5b8e065f.js",
     "runtime-main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.5b8e065f.js.map",
     "static/js/2.aea9bd6f.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.aea9bd6f.chunk.js",
@@ -18,6 +18,7 @@
     "static/media/c2.09cead3a.jpg": "https://sarabsingh24.github.io/sarabportfolio/static/media/c2.09cead3a.jpg",
     "static/media/c3.399dc3fe.jpg": "https://sarabsingh24.github.io/sarabportfolio/static/media/c3.399dc3fe.jpg",
     "static/media/c4.ba061912.jpg": "https://sarabsingh24.github.io/sarabportfolio/static/media/c4.ba061912.jpg",
+    "static/media/c5.2f3b90fe.jpg": "https://sarabsingh24.github.io/sarabportfolio/static/media/c5.2f3b90fe.jpg",
     "static/media/food.f14dbae1.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/food.f14dbae1.png",
     "static/media/grocery.1b836b87.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/grocery.1b836b87.png",
     "static/media/item-1.59f88483.jpeg": "https://sarabsingh24.github.io/sarabportfolio/static/media/item-1.59f88483.jpeg",
@@ -36,6 +37,6 @@
     "static/js/runtime-main.5b8e065f.js",
     "static/js/2.aea9bd6f.chunk.js",
     "static/css/main.43b948ca.chunk.css",
-    "static/js/main.2bc2435c.chunk.js"
+    "static/js/main.dc9bd72e.chunk.js"
   ]
 }
