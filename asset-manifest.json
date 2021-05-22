@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.43b948ca.chunk.css",
-    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.65666ab1.chunk.js",
-    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.65666ab1.chunk.js.map",
+    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.2bc2435c.chunk.js",
+    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.2bc2435c.chunk.js.map",
     "runtime-main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.5b8e065f.js",
     "runtime-main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.5b8e065f.js.map",
     "static/js/2.aea9bd6f.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.aea9bd6f.chunk.js",
@@ -14,6 +14,10 @@
     "static/js/2.aea9bd6f.chunk.js.LICENSE.txt": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.aea9bd6f.chunk.js.LICENSE.txt",
     "static/media/style.css": "https://sarabsingh24.github.io/sarabportfolio/static/media/bg-animated.031ce77a.webp",
     "static/media/birthday-alarm.20b11974.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/birthday-alarm.20b11974.png",
+    "static/media/c1.4cadd5c0.jpeg": "https://sarabsingh24.github.io/sarabportfolio/static/media/c1.4cadd5c0.jpeg",
+    "static/media/c2.09cead3a.jpg": "https://sarabsingh24.github.io/sarabportfolio/static/media/c2.09cead3a.jpg",
+    "static/media/c3.399dc3fe.jpg": "https://sarabsingh24.github.io/sarabportfolio/static/media/c3.399dc3fe.jpg",
+    "static/media/c4.ba061912.jpg": "https://sarabsingh24.github.io/sarabportfolio/static/media/c4.ba061912.jpg",
     "static/media/food.f14dbae1.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/food.f14dbae1.png",
     "static/media/grocery.1b836b87.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/grocery.1b836b87.png",
     "static/media/item-1.59f88483.jpeg": "https://sarabsingh24.github.io/sarabportfolio/static/media/item-1.59f88483.jpeg",
@@ -32,6 +36,6 @@
     "static/js/runtime-main.5b8e065f.js",
     "static/js/2.aea9bd6f.chunk.js",
     "static/css/main.43b948ca.chunk.css",
-    "static/js/main.65666ab1.chunk.js"
+    "static/js/main.2bc2435c.chunk.js"
   ]
 }
