@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.c8114701.chunk.css",
-    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.c5cca886.chunk.js",
-    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.c5cca886.chunk.js.map",
+    "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.a68c6d23.chunk.css",
+    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.7ab5e76d.chunk.js",
+    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.7ab5e76d.chunk.js.map",
     "runtime-main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.ac5cb7ae.js",
     "runtime-main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.ac5cb7ae.js.map",
     "static/js/2.52b31e80.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.52b31e80.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.da55be8e.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/3.da55be8e.chunk.js",
     "static/js/3.da55be8e.chunk.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/3.da55be8e.chunk.js.map",
     "index.html": "https://sarabsingh24.github.io/sarabportfolio/index.html",
-    "static/css/main.c8114701.chunk.css.map": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.c8114701.chunk.css.map",
+    "static/css/main.a68c6d23.chunk.css.map": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.a68c6d23.chunk.css.map",
     "static/js/2.52b31e80.chunk.js.LICENSE.txt": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.52b31e80.chunk.js.LICENSE.txt",
     "static/media/style.css": "https://sarabsingh24.github.io/sarabportfolio/static/media/bg-animated.031ce77a.webp",
     "static/media/birthday-alarm.6792b643.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/birthday-alarm.6792b643.png",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.ac5cb7ae.js",
     "static/js/2.52b31e80.chunk.js",
-    "static/css/main.c8114701.chunk.css",
-    "static/js/main.c5cca886.chunk.js"
+    "static/css/main.a68c6d23.chunk.css",
+    "static/js/main.7ab5e76d.chunk.js"
   ]
 }
