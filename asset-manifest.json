@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.310ffc02.chunk.css",
-    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.9bfa3f74.chunk.js",
-    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.9bfa3f74.chunk.js.map",
-    "runtime-main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.26285328.js",
-    "runtime-main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.26285328.js.map",
-    "static/js/2.8495c8d6.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.8495c8d6.chunk.js",
-    "static/js/2.8495c8d6.chunk.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.8495c8d6.chunk.js.map",
-    "static/js/3.a638b861.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/3.a638b861.chunk.js",
-    "static/js/3.a638b861.chunk.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/3.a638b861.chunk.js.map",
+    "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.142161ec.chunk.css",
+    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.9e6ec56d.chunk.js",
+    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.9e6ec56d.chunk.js.map",
+    "runtime-main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.2f493409.js",
+    "runtime-main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.2f493409.js.map",
+    "static/js/2.19e3d9dd.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.19e3d9dd.chunk.js",
+    "static/js/2.19e3d9dd.chunk.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.19e3d9dd.chunk.js.map",
+    "static/js/3.6fb82969.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/3.6fb82969.chunk.js",
+    "static/js/3.6fb82969.chunk.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/3.6fb82969.chunk.js.map",
     "index.html": "https://sarabsingh24.github.io/sarabportfolio/index.html",
-    "static/css/main.310ffc02.chunk.css.map": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.310ffc02.chunk.css.map",
-    "static/js/2.8495c8d6.chunk.js.LICENSE.txt": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.8495c8d6.chunk.js.LICENSE.txt",
+    "static/css/main.142161ec.chunk.css.map": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.142161ec.chunk.css.map",
+    "static/js/2.19e3d9dd.chunk.js.LICENSE.txt": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.19e3d9dd.chunk.js.LICENSE.txt",
     "static/media/style.css": "https://sarabsingh24.github.io/sarabportfolio/static/media/main-bg-map.6aa05133.png",
     "static/media/birthday-alarm.5168db4d.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/birthday-alarm.5168db4d.png",
     "static/media/c1.4cadd5c0.jpeg": "https://sarabsingh24.github.io/sarabportfolio/static/media/c1.4cadd5c0.jpeg",
@@ -35,9 +35,9 @@
     "static/media/slider.0f689994.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/slider.0f689994.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.26285328.js",
-    "static/js/2.8495c8d6.chunk.js",
-    "static/css/main.310ffc02.chunk.css",
-    "static/js/main.9bfa3f74.chunk.js"
+    "static/js/runtime-main.2f493409.js",
+    "static/js/2.19e3d9dd.chunk.js",
+    "static/css/main.142161ec.chunk.css",
+    "static/js/main.9e6ec56d.chunk.js"
   ]
 }
