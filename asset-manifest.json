@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.e1e17df5.chunk.css",
-    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.3713a4ef.chunk.js",
-    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.3713a4ef.chunk.js.map",
+    "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.507e2ffd.chunk.css",
+    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.149a0be0.chunk.js",
+    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.149a0be0.chunk.js.map",
     "runtime-main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.f5f282aa.js",
     "runtime-main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.f5f282aa.js.map",
     "static/js/2.3c374c85.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.3c374c85.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9f1855be.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/3.9f1855be.chunk.js",
     "static/js/3.9f1855be.chunk.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/3.9f1855be.chunk.js.map",
     "index.html": "https://sarabsingh24.github.io/sarabportfolio/index.html",
-    "static/css/main.e1e17df5.chunk.css.map": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.e1e17df5.chunk.css.map",
+    "static/css/main.507e2ffd.chunk.css.map": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.507e2ffd.chunk.css.map",
     "static/js/2.3c374c85.chunk.js.LICENSE.txt": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.3c374c85.chunk.js.LICENSE.txt",
     "static/media/accordian.344b5a4a.jpg": "https://sarabsingh24.github.io/sarabportfolio/static/media/accordian.344b5a4a.jpg",
     "static/media/style.css": "https://sarabsingh24.github.io/sarabportfolio/static/media/main-bg-map.6aa05133.png",
@@ -46,7 +46,7 @@
   "entrypoints": [
     "static/js/runtime-main.f5f282aa.js",
     "static/js/2.3c374c85.chunk.js",
-    "static/css/main.e1e17df5.chunk.css",
-    "static/js/main.3713a4ef.chunk.js"
+    "static/css/main.507e2ffd.chunk.css",
+    "static/js/main.149a0be0.chunk.js"
   ]
 }
