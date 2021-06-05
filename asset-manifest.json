@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.41ac6a85.chunk.css",
-    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.b6f67197.chunk.js",
-    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.b6f67197.chunk.js.map",
+    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.db4732e0.chunk.js",
+    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.db4732e0.chunk.js.map",
     "runtime-main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.246c0243.js",
     "runtime-main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.246c0243.js.map",
     "static/js/2.804979d0.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.804979d0.chunk.js",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.246c0243.js",
     "static/js/2.804979d0.chunk.js",
     "static/css/main.41ac6a85.chunk.css",
-    "static/js/main.b6f67197.chunk.js"
+    "static/js/main.db4732e0.chunk.js"
   ]
 }
