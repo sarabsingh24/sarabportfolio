@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.0537aa27.chunk.css",
-    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.524c1613.chunk.js",
-    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.524c1613.chunk.js.map",
+    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.057cf5dc.chunk.js",
+    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.057cf5dc.chunk.js.map",
     "runtime-main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.2f493409.js",
     "runtime-main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.2f493409.js.map",
     "static/js/2.378d35ad.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.378d35ad.chunk.js",
@@ -42,7 +42,7 @@
     "static/media/popup.72218575.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/popup.72218575.png",
     "static/media/react.d4b3e8d6.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/react.d4b3e8d6.png",
     "static/media/rsystems.13fad866.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/rsystems.13fad866.png",
-    "static/media/rsystemsImg.0b06a0e9.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/rsystemsImg.0b06a0e9.png",
+    "static/media/rsystemsImg.2f1bd118.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/rsystemsImg.2f1bd118.png",
     "static/media/sarab.290a555b.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/sarab.290a555b.png",
     "static/media/sarab_UI_Designer_WFH.ed8b1909.pdf": "https://sarabsingh24.github.io/sarabportfolio/static/media/sarab_UI_Designer_WFH.ed8b1909.pdf",
     "static/media/showmedia.88be9013.jpg": "https://sarabsingh24.github.io/sarabportfolio/static/media/showmedia.88be9013.jpg",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.2f493409.js",
     "static/js/2.378d35ad.chunk.js",
     "static/css/main.0537aa27.chunk.css",
-    "static/js/main.524c1613.chunk.js"
+    "static/js/main.057cf5dc.chunk.js"
   ]
 }
