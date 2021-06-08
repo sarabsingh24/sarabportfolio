@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://sarabsingh24.github.io/sarabportfolio/static/css/main.77abc737.chunk.css",
-    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.5a7623bf.chunk.js",
-    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.5a7623bf.chunk.js.map",
+    "main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.47d4fe69.chunk.js",
+    "main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/main.47d4fe69.chunk.js.map",
     "runtime-main.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.2f493409.js",
     "runtime-main.js.map": "https://sarabsingh24.github.io/sarabportfolio/static/js/runtime-main.2f493409.js.map",
     "static/js/2.378d35ad.chunk.js": "https://sarabsingh24.github.io/sarabportfolio/static/js/2.378d35ad.chunk.js",
@@ -39,6 +39,7 @@
     "static/media/kentro.39a09080.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/kentro.39a09080.png",
     "static/media/mitech.e37136e0.jpg": "https://sarabsingh24.github.io/sarabportfolio/static/media/mitech.e37136e0.jpg",
     "static/media/mitechImg.c5ad1304.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/mitechImg.c5ad1304.png",
+    "static/media/pagination.7619ea40.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/pagination.7619ea40.png",
     "static/media/popup.72218575.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/popup.72218575.png",
     "static/media/react.d4b3e8d6.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/react.d4b3e8d6.png",
     "static/media/rsystems.13fad866.png": "https://sarabsingh24.github.io/sarabportfolio/static/media/rsystems.13fad866.png",
@@ -56,6 +57,6 @@
     "static/js/runtime-main.2f493409.js",
     "static/js/2.378d35ad.chunk.js",
     "static/css/main.77abc737.chunk.css",
-    "static/js/main.5a7623bf.chunk.js"
+    "static/js/main.47d4fe69.chunk.js"
   ]
 }
