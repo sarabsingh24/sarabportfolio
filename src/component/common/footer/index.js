@@ -7,7 +7,7 @@ import "./style.css";
 export default function Index() {
   return (
     <div className="footer">
-      <small> ©copyright sarabpreetsingh</small>
+      <small> ©copyright sarabpreetsingh --</small>
       <small>
         <span className="social-icon">
           <TwitterIcon />
